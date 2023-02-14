@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../asianKitchenMenu-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "yemek_sitesi"
+	}
+}
